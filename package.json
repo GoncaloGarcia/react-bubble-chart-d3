@@ -17,9 +17,10 @@
     "url": "https://github.com/weknowinc/react-bubble-chart-d3"
   },
   "main": "lib/index.js",
-  "peerDependencies": {},
   "dependencies": {
     "d3": "^4.13.0",
+    "d3-scale": "^2.1.0",
+    "d3-scale-chromatic": "^2.0.0",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
